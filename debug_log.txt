@@ -1,0 +1,36 @@
+{"patientID":"1","diagnosis":"kJk","treatment":"kjksj","followUp":"ksjkqshjq\n"}2025-08-05 04:01:21 | RAW: {"patientID":"1","diagnosis":"jajah","treatment":"jhsdjh","followUp":"jhaj"}
+2025-08-05 04:09:49 | RAW: {"patientID":"1","diagnosis":"jsja","treatment":"jahxjah","followUp":"jhxjah\n"}
+2025-08-05 04:15:16 | RAW: {"patientID":"1","diagnosis":"bp low","treatment":"salt","followUp":"next week"}
+2025-08-05 04:25:55 | RAW: {"patientID":"2","diagnosis":"diabetes","treatment":"sugar","followUp":"tomorrow"}
+2025-08-05 04:25:56 | RAW: {"patientID":"2","diagnosis":"diabetes","treatment":"sugar","followUp":"tomorrow"}
+2025-08-05 04:25:57 | RAW: {"patientID":"2","diagnosis":"diabetes","treatment":"sugar","followUp":"tomorrow"}
+2025-08-05 04:25:57 | RAW: {"patientID":"2","diagnosis":"diabetes","treatment":"sugar","followUp":"tomorrow"}
+2025-08-05 04:25:57 | RAW: {"patientID":"2","diagnosis":"diabetes","treatment":"sugar","followUp":"tomorrow"}
+2025-08-05 04:25:57 | RAW: {"patientID":"2","diagnosis":"diabetes","treatment":"sugar","followUp":"tomorrow"}
+2025-08-05 04:25:58 | RAW: {"patientID":"2","diagnosis":"diabetes","treatment":"sugar","followUp":"tomorrow"}
+2025-08-05 04:25:58 | RAW: {"patientID":"2","diagnosis":"diabetes","treatment":"sugar","followUp":"tomorrow"}
+2025-08-05 04:25:58 | RAW: {"patientID":"2","diagnosis":"diabetes","treatment":"sugar","followUp":"tomorrow"}
+2025-08-05 04:25:58 | RAW: {"patientID":"2","diagnosis":"diabetes","treatment":"sugar","followUp":"tomorrow"}
+2025-08-05 04:26:30 | RAW: {"patientID":"2","diagnosis":"diabetes","treatment":"sugar","followUp":"tomorrow"}
+2025-08-05 04:26:32 | RAW: {"patientID":"2","diagnosis":"diabetes","treatment":"sugar","followUp":"tomorrow"}
+2025-08-05 04:26:36 | RAW: {"patientID":"4","diagnosis":"diabetes","treatment":"sugar","followUp":"tomorrow"}
+2025-08-05 04:26:36 | RAW: {"patientID":"4","diagnosis":"diabetes","treatment":"sugar","followUp":"tomorrow"}
+2025-08-05 04:26:37 | RAW: {"patientID":"4","diagnosis":"diabetes","treatment":"sugar","followUp":"tomorrow"}
+2025-08-05 04:27:39 | RAW: {"patientID":"2","diagnosis":"diabetes","treatment":"sugar","followUp":"next week"}
+2025-08-05 04:28:27 | RAW: {"patientID":"2","diagnosis":"diabetes","treatment":"sugar","followUp":"hello"}
+2025-08-05 04:29:24 | RAW: {"patientID":"1","diagnosis":"sugar","treatment":"sugar","followUp":"sugar"}
+2025-08-05 04:29:27 | RAW: {"patientID":"2","diagnosis":"sugar","treatment":"sugar","followUp":"sugar"}
+2025-08-05 04:29:28 | RAW: {"patientID":"2","diagnosis":"sugar","treatment":"sugar","followUp":"sugar"}
+2025-08-05 04:29:29 | RAW: {"patientID":"2","diagnosis":"sugar","treatment":"sugar","followUp":"sugar"}
+2025-08-05 04:29:29 | RAW: {"patientID":"2","diagnosis":"sugar","treatment":"sugar","followUp":"sugar"}
+2025-08-05 04:29:29 | RAW: {"patientID":"2","diagnosis":"sugar","treatment":"sugar","followUp":"sugar"}
+2025-08-05 04:29:31 | RAW: {"patientID":"3","diagnosis":"sugar","treatment":"sugar","followUp":"sugar"}
+2025-08-05 04:29:32 | RAW: {"patientID":"3","diagnosis":"sugar","treatment":"sugar","followUp":"sugar"}
+2025-08-05 04:29:32 | RAW: {"patientID":"3","diagnosis":"sugar","treatment":"sugar","followUp":"sugar"}
+2025-08-05 04:29:32 | RAW: {"patientID":"3","diagnosis":"sugar","treatment":"sugar","followUp":"sugar"}
+2025-08-05 04:29:32 | RAW: {"patientID":"3","diagnosis":"sugar","treatment":"sugar","followUp":"sugar"}
+2025-08-05 04:29:36 | RAW: {"patientID":"4","diagnosis":"sugar","treatment":"sugar","followUp":"sugar"}
+2025-08-05 04:29:36 | RAW: {"patientID":"4","diagnosis":"sugar","treatment":"sugar","followUp":"sugar"}
+2025-08-05 04:29:37 | RAW: {"patientID":"4","diagnosis":"sugar","treatment":"sugar","followUp":"sugar"}
+2025-08-05 04:47:51 | RAW: {"patientID":"1","diagnosis":"aashish","treatment":"ashish","followUp":"ajshaih"}
+2025-08-05 05:14:30 | RAW: {"patientID":"1","diagnosis":"bp","treatment":"jshdj","followUp":"kdsjks"}
