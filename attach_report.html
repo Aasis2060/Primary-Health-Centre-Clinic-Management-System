@@ -1,0 +1,58 @@
+<!-- attach_report.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Attach Lab Report</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="bg-light">
+  <div class="container py-5">
+    <h3 class="text-secondary text-center mb-4"><i class="bi bi-paperclip"></i> Attach Lab Report</h3>
+
+    <div class="row justify-content-center">
+      <div class="col-md-6">
+        <form id="reportForm" class="card shadow-sm p-4 bg-white">
+          <div class="mb-3">
+            <label class="form-label">Summary ID</label>
+            <input type="number" class="form-control" id="summaryID" required />
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Report Type</label>
+            <input type="text" class="form-control" id="reportType" placeholder="e.g. Blood Test" required />
+          </div>
+          <div class="mb-3">
+            <label class="form-label">File Path</label>
+            <input type="text" class="form-control" id="filePath" placeholder="e.g. /files/report001.pdf" required />
+          </div>
+          <button type="submit" class="btn btn-secondary w-100">Attach</button>
+          <div id="message" class="text-success mt-3 text-center fw-semibold"></div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    document.getElementById("reportForm").addEventListener("submit", function (e) {
+      e.preventDefault();
+
+      fetch("backend/attach_lab_report.php", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          summaryID: document.getElementById("summaryID").value,
+          reportType: document.getElementById("reportType").value,
+          filePath: document.getElementById("filePath").value,
+        }),
+      })
+        .then((res) => res.json())
+        .then((data) => {
+          document.getElementById("message").innerText = data.message;
+        });
+    });
+  </script>
+</body>
+</html>
